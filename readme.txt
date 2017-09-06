@@ -12,5 +12,8 @@ If you activate the plugin and do not see the update notification, that likely m
 
 == Changelog ==
 
+= 1.0.1 =
+* Update updater script to point to the new organization on GitHub.
+
 = 1.0.0 =
-* Initial Release
+* Initial Release.
