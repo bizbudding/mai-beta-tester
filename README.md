@@ -1,1 +1,1 @@
-# Mai - Beta Tester
+# Mai Beta Tester
